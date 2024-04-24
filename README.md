@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m Yiva
+- 👀 I’m interested in painting
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on web design
+- 📫 How to reach me by yiva307@gmail.com
 
 <!--
 **Yi-Hua/Yi-Hua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
